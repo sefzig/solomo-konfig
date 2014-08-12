@@ -12,7 +12,7 @@ Erzeugt ein Wurmloch zum digitalen Paralleluniversum.
 * [solomo-konfig](https://github.com/sefzig/solomo-konfig/blob/master/README.md) 
 
 Links
-* [Druckvorlage öffnen](http://sefzig.net/solomo/konfig/)
+* [Beispiel öffnen](http://sefzig.net/solomo/konfig/)
 * [Druckvorlage für Konfigurierbare QR Codes "gh"](http://sefzig.net/solomo/druck/?zahler=0&prefix=gh&korrektur=L&zeilen=6&spalten=4&template=standard&konfig=0&cta=&url=http://sefzig.net/solomo/konfig/)
 
 ## URL-Parameter
@@ -21,5 +21,6 @@ Die Einbindung kann mit URL-Parametern eingestellt werden.
 
 <pre>
 http://sefzig.net/solomo/konfig/
-?i=    // folgt
+?i=    // Sitzungs-ID
+&c=    // Gestaltung: sefzig | light | publicis | redlion | pixelpark | giessbert | url | html
 </pre>
