@@ -1,0 +1,20 @@
+
+a {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+#header {
+ /* 
+    background-color: #cccccc;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#e7e7e7), to(#cccccc)) !important; 
+    background-image: -webkit-linear-gradient(top, #e7e7e7, #cccccc) !important; 
+    background-image:    -moz-linear-gradient(top, #e7e7e7, #cccccc) !important; 
+    background-image:     -ms-linear-gradient(top, #e7e7e7, #cccccc) !important; 
+    background-image:      -o-linear-gradient(top, #e7e7e7, #cccccc) !important; 
+ */
+    color: #000000;
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.5);
+}

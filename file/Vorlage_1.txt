@@ -1,0 +1,10 @@
+<style type="text/css"> body { background: #bb1111 !important; } </style>
+<style type="text/css"> body * { color: #ffffff !important; } body { font-family: Arial,Arial,sans-serif !important; font-size: 12px !important; font-weight: 500 !important; } </style>
+<script> jQuery("#logo img").attr("src","http://pub.lic.is/solomo/confiqr/img/logo_00.png"); </script>
+<style type="text/css"> #header { background: #dddddd !important; } </style>
+
+
+ 
+ 
+ 
+ 
